@@ -43,13 +43,13 @@
 </template>
 
 <script>
-
+/* 
 export default {
   data () {
     return {
     };
   },
-}
+} */
 </script>
 <style lang='scss' scoped>
 .mint-swipe{height: 200px;}

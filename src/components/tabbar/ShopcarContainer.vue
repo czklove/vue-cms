@@ -6,11 +6,11 @@
 </template>
 
 <script>
-export default {
+/* export default {
   data () {
     return {
     };
-  },
+  }, 
 
   components: {},
 
@@ -20,7 +20,7 @@ export default {
 
   methods: {}
 }
-
+*/
 </script>
 <style lang='scss' scoped>
 </style>

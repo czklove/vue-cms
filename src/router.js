@@ -15,8 +15,8 @@ var router = new VueRouter({
     {path: '/search',component:SearchContainer},
     {path: '/shopcar',component:ShopcarContainer}
   ],
-  linkActiveClass:'mui-active', //覆盖默认的路由高亮的类
-  mode:'history'
+  linkActiveClass:'mui-active' //覆盖默认的路由高亮的类
+  /* mode:'history' */
 })
 
 // 把路由对象暴露出去

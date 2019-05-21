@@ -6,7 +6,7 @@
 </template>
 
 <script>
-export default {
+/* export default {
   data () {
     return {
     };
@@ -19,7 +19,7 @@ export default {
   mounted: {},
 
   methods: {}
-}
+} */
 
 </script>
 <style lang='scss' scoped>
